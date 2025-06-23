@@ -1,1 +1,1 @@
-# Artificial_Intelligence
+# AI & ML projects
