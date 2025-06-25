@@ -1,1 +1,1 @@
-# AI & ML projects
+# AGI, AI, & ML projects in various domains
